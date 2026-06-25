@@ -1,0 +1,280 @@
+﻿skill_id,skill_key,skill_name,skill_count,alias_examples,cluster_id,cluster_name,cluster_reason
+SKILL_0001,a/b testing,A/B testing,2,A/B Testing; A/B testing,CLUSTER_022,Statistics and Experimentation,A/B testing is a statistical method for comparing two versions of something
+SKILL_0002,api integration,API integration,3,API integration,CLUSTER_011,API Development,"API integration involves connecting and using APIs, which falls under API development"
+SKILL_0003,apis,APIs,3,APIs,CLUSTER_011,API Development,APIs are the core of API development and integration
+SKILL_0004,aws,AWS,27,AWS; Cloud platforms; cloud platforms,CLUSTER_018,Cloud Platforms,AWS is a major cloud platform and fits into the Cloud Platforms cluster
+SKILL_0005,aws ai/ml services,AWS AI/ML services,1,AWS AI/ML services,CLUSTER_019,Cloud Data Services,AWS AI/ML services are specific managed cloud data/AI services
+SKILL_0006,aws bedrock,AWS Bedrock,1,AWS Bedrock,CLUSTER_019,Cloud Data Services,AWS Bedrock is a specific managed cloud AI service
+SKILL_0007,aws glue,AWS Glue,1,AWS Glue,CLUSTER_019,Cloud Data Services,AWS Glue is a specific managed cloud data service
+SKILL_0008,aws sagemaker,AWS SageMaker,1,AWS SageMaker,CLUSTER_019,Cloud Data Services,AWS SageMaker is a specific managed cloud data/AI service
+SKILL_0009,access control,Access control,1,Access control,CLUSTER_023,Cybersecurity,Access control is a key component of cybersecurity
+SKILL_0010,adobe aep xdm schemas,Adobe AEP XDM schemas,1,Adobe AEP XDM schemas,CLUSTER_030,Other Technical Skills,Adobe AEP XDM schemas are specific and do not fit into any other cluster
+SKILL_0011,airflow,Airflow,6,Airflow,CLUSTER_016,Workflow Orchestration,Airflow is a workflow orchestration tool
+SKILL_0012,alibaba cloud,Alibaba Cloud,1,Alibaba Cloud,CLUSTER_018,Cloud Platforms,Alibaba Cloud is a major cloud platform
+SKILL_0013,alloydb,AlloyDB,1,AlloyDB,CLUSTER_019,Cloud Data Services,AlloyDB is a specific managed cloud data service
+SKILL_0014,ansible,Ansible,1,Ansible,CLUSTER_020,DevOps and Cloud Infrastructure,Ansible is a DevOps and cloud infrastructure automation tool
+SKILL_0015,anthropic,Anthropic,1,Anthropic,CLUSTER_002,Generative AI,Anthropic is a company focused on generative AI
+SKILL_0016,anthropic claude api,Anthropic Claude API,1,Anthropic Claude API,CLUSTER_002,Generative AI,The Anthropic Claude API is a generative AI API
+SKILL_0017,apache airflow,Apache Airflow,1,Apache Airflow,CLUSTER_016,Workflow Orchestration,Apache Airflow is a workflow orchestration tool
+SKILL_0018,apache spark,Apache Spark,1,Big Data technologies,CLUSTER_017,Big Data Processing,Apache Spark is a big data processing framework
+SKILL_0019,azure,Azure,8,Cloud platforms; cloud deployment on Azure; cloud platforms,CLUSTER_018,Cloud Platforms,Azure is a major cloud platform
+SKILL_0020,azure ai foundry,Azure AI Foundry,2,Azure AI Foundry,CLUSTER_019,Cloud Data Services,Azure AI Foundry is a specific managed cloud data/AI service
+SKILL_0021,azure ai search,Azure AI Search,2,Azure AI Search,CLUSTER_019,Cloud Data Services,Azure AI Search is a specific managed cloud data/AI service
+SKILL_0022,azure ai studio,Azure AI Studio,1,Azure AI Studio,CLUSTER_019,Cloud Data Services,Azure AI Studio is a specific managed cloud data/AI service
+SKILL_0023,azure blob storage,Azure Blob Storage,5,Azure Blob Storage; Azure Blob storage; Azure Data Ecosystem,CLUSTER_019,Cloud Data Services,Azure Blob Storage is a specific managed cloud data service
+SKILL_0024,azure cognitive services,Azure Cognitive Services,1,Azure Cognitive Services,CLUSTER_019,Cloud Data Services,Azure Cognitive Services are specific managed cloud data/AI services
+SKILL_0025,azure data factory,Azure Data Factory,10,"Azure Data Ecosystem; Azure Data Factory; Azure cloud services (ADF, ADLS, Databricks)",CLUSTER_019,Cloud Data Services,Azure Data Factory is a specific managed cloud data service
+SKILL_0026,azure data lake,Azure Data Lake,4,Azure Data Ecosystem; Azure Data Lake,CLUSTER_019,Cloud Data Services,Azure Data Lake is a specific managed cloud data service
+SKILL_0027,azure data lake storage,Azure Data Lake Storage,2,"Azure Data Lake Storage; Azure cloud services (ADF, ADLS, Databricks)",CLUSTER_019,Cloud Data Services,Azure Data Lake Storage is a specific managed cloud data service
+SKILL_0028,azure data lake storage gen 2,Azure Data Lake Storage Gen 2,1,Azure Data Lake Storage Gen 2,CLUSTER_019,Cloud Data Services,Azure Data Lake Storage Gen 2 is a specific managed cloud data service
+SKILL_0029,azure databricks,Azure Databricks,4,"Azure Databricks; Azure cloud services (ADF, ADLS, Databricks)",CLUSTER_019,Cloud Data Services,Azure Databricks is a specific managed cloud data service
+SKILL_0030,azure devops,Azure DevOps,2,Azure DevOps,CLUSTER_020,DevOps and Cloud Infrastructure,Azure DevOps is a DevOps and cloud infrastructure tool
+SKILL_0031,azure lighthouse,Azure Lighthouse,1,Azure Lighthouse,CLUSTER_019,Cloud Data Services,Azure Lighthouse is a specific managed cloud data service
+SKILL_0032,azure machine learning,Azure Machine Learning,1,Azure Machine Learning,CLUSTER_019,Cloud Data Services,Azure Machine Learning is a specific managed cloud data/AI service
+SKILL_0033,azure networking,Azure Networking,1,Azure networking,CLUSTER_020,DevOps and Cloud Infrastructure,Azure Networking is part of cloud infrastructure management
+SKILL_0034,azure networking fundamentals,Azure Networking Fundamentals,1,Azure networking fundamentals,CLUSTER_020,DevOps and Cloud Infrastructure,Azure Networking Fundamentals is part of cloud infrastructure management
+SKILL_0035,azure openai service,Azure OpenAI Service,1,Azure OpenAI Service,CLUSTER_019,Cloud Data Services,Azure OpenAI Service is a specific managed cloud data/AI service
+SKILL_0036,azure sql,Azure SQL,3,Azure SQL,CLUSTER_019,Cloud Data Services,Azure SQL is a specific managed cloud data service
+SKILL_0037,azure sql databases,Azure SQL Databases,2,Azure Data Ecosystem; Azure SQL Databases,CLUSTER_019,Cloud Data Services,Azure SQL Databases is a specific managed cloud data service
+SKILL_0038,azure synapse,Azure Synapse,3,Azure Synapse,CLUSTER_019,Cloud Data Services,Azure Synapse is a specific managed cloud data service
+SKILL_0039,backup and disaster recovery,Backup and Disaster Recovery,1,backup and disaster recovery,CLUSTER_020,DevOps and Cloud Infrastructure,Backup and disaster recovery are part of cloud infrastructure management
+SKILL_0040,bedrock,Bedrock,1,Bedrock,CLUSTER_019,Cloud Data Services,Bedrock is a specific managed cloud data/AI service
+SKILL_0041,bigquery,BigQuery,4,BigQuery,CLUSTER_019,Cloud Data Services,BigQuery is a specific managed cloud data service
+SKILL_0042,bigqueryml,BigQueryML,1,BigQueryML,CLUSTER_019,Cloud Data Services,BigQueryML is a specific managed cloud data service
+SKILL_0043,block storage iscsi san nfs,"Block Storage (iSCSI, SAN, NFS)",1,"Block Storage (iSCSI, SAN, NFS)",CLUSTER_020,DevOps and Cloud Infrastructure,Block storage is part of cloud infrastructure management
+SKILL_0044,c,C,1,C,CLUSTER_009,Programming Languages,C is a general-purpose programming language
+SKILL_0045,c#,C#,2,C#,CLUSTER_009,Programming Languages,C# is a general-purpose programming language
+SKILL_0046,c++,C++,1,C++,CLUSTER_009,Programming Languages,C++ is a general-purpose programming language
+SKILL_0047,ci/cd,CI/CD,8,CI/CD,CLUSTER_020,DevOps and Cloud Infrastructure,CI/CD is a key part of DevOps and cloud infrastructure
+SKILL_0048,ci/cd automation,CI/CD Automation,1,CI/CD automation,CLUSTER_020,DevOps and Cloud Infrastructure,CI/CD automation is part of DevOps and cloud infrastructure
+SKILL_0049,ci/cd pipeline security,CI/CD Pipeline Security,1,CI/CD pipeline security,CLUSTER_020,DevOps and Cloud Infrastructure,CI/CD pipeline security is part of DevOps and cloud infrastructure
+SKILL_0050,ci/cd pipelines,CI/CD Pipelines,3,CI/CD pipelines,CLUSTER_020,DevOps and Cloud Infrastructure,CI/CD pipelines are part of DevOps and cloud infrastructure
+SKILL_0051,ci/cd practices,CI/CD Practices,2,CI/CD practices,CLUSTER_020,DevOps and Cloud Infrastructure,CI/CD practices are part of DevOps and cloud infrastructure
+SKILL_0052,cloud run,Cloud Run,1,Cloud Run,CLUSTER_018,Cloud Platforms,Cloud Run is a cloud platform service
+SKILL_0053,cloud sql,Cloud SQL,1,Cloud SQL,CLUSTER_019,Cloud Data Services,Cloud SQL is a specific managed cloud data service
+SKILL_0054,copilot,CoPilot,1,CoPilot,CLUSTER_030,Other Technical Skills,CoPilot is specific and does not fit into any other cluster
+SKILL_0055,codeigniter,CodeIgniter,1,CodeIgniter,CLUSTER_010,Web Development,CodeIgniter is a web development framework
+SKILL_0056,cognos data manager,Cognos Data Manager,1,Cognos Data Manager,CLUSTER_030,Other Technical Skills,Cognos Data Manager is specific and does not fit into any other cluster
+SKILL_0057,cognos framework manager,Cognos Framework Manager,1,Cognos Framework Manager,CLUSTER_030,Other Technical Skills,Cognos Framework Manager is specific and does not fit into any other cluster
+SKILL_0058,comprehend,Comprehend,1,Comprehend,CLUSTER_019,Cloud Data Services,Comprehend is a specific managed cloud data/AI service
+SKILL_0059,computer vision,Computer Vision,1,computer vision,CLUSTER_005,Computer Vision,Computer Vision is a specific field of image processing and visual AI
+SKILL_0060,copilot studio,Copilot Studio,3,Copilot Studio,CLUSTER_030,Other Technical Skills,Copilot Studio is specific and does not fit into any other cluster
+SKILL_0061,cosmos,Cosmos,1,Cosmos,CLUSTER_030,Other Technical Skills,Cosmos is specific and does not fit into any other cluster
+SKILL_0062,dhcp,DHCP,1,DHCP,CLUSTER_020,DevOps and Cloud Infrastructure,DHCP is part of cloud infrastructure management
+SKILL_0063,dns,DNS,1,DNS,CLUSTER_020,DevOps and Cloud Infrastructure,DNS is part of cloud infrastructure management
+SKILL_0064,data analysis,Data Analysis,5,Data Analysis; Data analysis,CLUSTER_014,Data Warehousing,Data analysis is closely related to data warehousing and analytics
+SKILL_0065,data analytics,Data Analytics,2,DATA ANALYTICS; Data Analytics,CLUSTER_014,Data Warehousing,Data analytics is closely related to data warehousing and analytics
+SKILL_0066,data architecture,Data Architecture,1,Data Architecture,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0067,data governance,Data Governance,1,Data Governance,CLUSTER_028,Data Governance and Quality,Deterministic fallback: missing Pass 3 assignment
+SKILL_0068,data interpretation,Data Interpretation,1,Data Interpretation,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0069,data manipulation,Data Manipulation,1,Data Manipulation,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0070,data mining,Data Mining,1,Data Mining,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0071,data modeling,Data Modeling,4,Data Modeling; Data modeling,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0072,data modelling,Data Modelling,1,Data Modelling,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0073,data pipelines,Data Pipelines,4,Data Pipelines; Data pipelines; data pipelines,CLUSTER_015,Data Engineering Pipelines,Deterministic fallback: missing Pass 3 assignment
+SKILL_0074,data presentation,Data Presentation,1,Data Presentation,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0075,data processing,Data Processing,1,Data Processing,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0076,data lakehouse,Data lakehouse,1,Data lakehouse,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0077,data pipeline automation,Data pipeline automation,1,Data pipeline automation,CLUSTER_015,Data Engineering Pipelines,Deterministic fallback: missing Pass 3 assignment
+SKILL_0078,data pipeline design,Data pipeline design,1,Data pipeline design,CLUSTER_015,Data Engineering Pipelines,Deterministic fallback: missing Pass 3 assignment
+SKILL_0079,data pipeline implementation,Data pipeline implementation,1,Data pipeline implementation,CLUSTER_015,Data Engineering Pipelines,Deterministic fallback: missing Pass 3 assignment
+SKILL_0080,data pipeline support,Data pipeline support,1,Data pipeline support,CLUSTER_015,Data Engineering Pipelines,Deterministic fallback: missing Pass 3 assignment
+SKILL_0081,data preprocessing,Data preprocessing,2,Data Preprocessing; Data preprocessing,CLUSTER_015,Data Engineering Pipelines,Data preprocessing is a key step in ETL/ELT pipelines for data transformation
+SKILL_0082,data protection,Data protection,2,Data protection,CLUSTER_023,Cybersecurity,Data protection involves securing data against unauthorized access or breaches
+SKILL_0083,data security best practices,Data security best practices,1,Data security best practices,CLUSTER_023,Cybersecurity,Data security best practices are part of securing data and systems
+SKILL_0084,data storage optimization,Data storage optimization,1,Data storage optimization,CLUSTER_014,Data Warehousing,Optimizing data storage is relevant to data warehousing and efficient data management
+SKILL_0085,datamarts,DataMarts,1,DataMarts,CLUSTER_014,Data Warehousing,DataMarts are subsets of data warehouses and are relevant to data warehousing concepts
+SKILL_0086,dataops practices,DataOps Practices,1,DataOps Practices,CLUSTER_015,Data Engineering Pipelines,DataOps Practices are closely related to data engineering and pipeline orchestration
+SKILL_0087,database performance tuning,Database performance tuning,1,Database performance tuning,CLUSTER_013,Databases and Querying,Database performance tuning is directly related to optimizing database systems
+SKILL_0088,databricks,Databricks,5,Azure Data Ecosystem; Databricks,CLUSTER_017,Big Data Processing,Databricks is a platform for big data processing and analytics
+SKILL_0089,datadog,Datadog,1,Datadog,CLUSTER_020,DevOps and Cloud Infrastructure,Datadog is a monitoring tool used in DevOps and cloud infrastructure management
+SKILL_0090,dataflow,Dataflow,2,Dataflow,CLUSTER_017,Big Data Processing,Dataflow is a tool for distributed data processing and is part of big data technologies
+SKILL_0091,deep learning,Deep Learning,1,Deep Learning,CLUSTER_007,Deep Learning,Deep Learning is a core category for neural networks and deep learning frameworks
+SKILL_0092,deepeval,DeepEval,1,DeepEval,CLUSTER_030,Other Technical Skills,DeepEval is a specific evaluation framework for deep learning models and does not fit other clusters
+SKILL_0093,deepstream,DeepStream,1,DeepStream,CLUSTER_005,Computer Vision,DeepStream is used for video analytics and computer vision applications
+SKILL_0094,demand modeling,Demand Modeling,1,Demand Modeling,CLUSTER_022,Statistics and Experimentation,Demand modeling involves statistical and analytical techniques for forecasting
+SKILL_0095,deployment,Deployment,1,Deployment,CLUSTER_008,MLOps and Deployment,Deployment is a key aspect of MLOps and model serving
+SKILL_0096,detectron2,Detectron2,1,Detectron2,CLUSTER_005,Computer Vision,Detectron2 is a computer vision framework for object detection
+SKILL_0097,devops,DevOps,1,DevOps,CLUSTER_020,DevOps and Cloud Infrastructure,DevOps is a core category for cloud infrastructure and deployment practices
+SKILL_0098,devsecops processes,DevSecOps Processes,1,DevSecOps Processes,CLUSTER_023,Cybersecurity,DevSecOps integrates security into DevOps practices and is relevant to cybersecurity
+SKILL_0099,dialogflow,Dialogflow,1,Dialogflow,CLUSTER_002,Generative AI,"Dialogflow is used for building conversational AI and chatbots, which fall under generative AI"
+SKILL_0100,distributed computing,Distributed computing,1,Distributed computing,CLUSTER_017,Big Data Processing,Distributed computing is a foundational concept in big data technologies
+SKILL_0101,distributed systems,Distributed systems,1,Distributed systems,CLUSTER_020,DevOps and Cloud Infrastructure,Distributed systems are relevant to cloud infrastructure and deployment practices
+SKILL_0102,django,Django,1,Django,CLUSTER_010,Web Development,Django is a backend web framework and is part of web development
+SKILL_0103,docker,Docker,8,Docker,CLUSTER_020,DevOps and Cloud Infrastructure,Docker is a containerization tool used in DevOps and cloud infrastructure
+SKILL_0104,document ai,Document AI,1,document AI,CLUSTER_002,Generative AI,"Document AI involves AI-based document processing and analysis, which is part of generative AI"
+SKILL_0105,document analysis,Document analysis,1,document analysis,CLUSTER_004,NLP and Text Analytics,Document analysis involves text processing and is relevant to NLP and text analytics
+SKILL_0106,ec2,EC2,1,EC2,CLUSTER_018,Cloud Platforms,EC2 is a cloud computing service provided by AWS and is part of cloud platforms
+SKILL_0107,edr,EDR,1,EDR,CLUSTER_023,Cybersecurity,EDR (Endpoint Detection and Response) is a cybersecurity tool for threat detection
+SKILL_0108,emr,EMR,1,EMR,CLUSTER_017,Big Data Processing,EMR (Elastic MapReduce) is a big data processing service on AWS
+SKILL_0109,etl,ETL,7,ETL,CLUSTER_015,Data Engineering Pipelines,ETL is a core process in data engineering pipelines for data transformation
+SKILL_0110,excel,Excel,6,Excel,CLUSTER_014,Data Warehousing,Excel is used for data analysis and is relevant to data warehousing and reporting
+SKILL_0111,external api design,External API design,1,External API design,CLUSTER_011,API Development,External API design is directly related to API development and integration
+SKILL_0112,faiss,FAISS,1,FAISS,CLUSTER_003,RAG and Vector Search,FAISS is a vector search library used in retrieval-augmented generation (RAG) systems
+SKILL_0113,fastapi,FastAPI,2,FastAPI,CLUSTER_011,API Development,FastAPI is a framework for building REST APIs and is part of API development
+SKILL_0114,finacle,Finacle,1,Finacle,CLUSTER_025,Enterprise Platforms,Finacle is a core banking platform and is part of enterprise platforms
+SKILL_0115,firebase,Firebase,1,Firebase,CLUSTER_012,Mobile Development,Firebase is used for mobile app development and backend services
+SKILL_0116,firebase hosting,Firebase Hosting,1,Firebase Hosting,CLUSTER_012,Mobile Development,Firebase Hosting is part of the Firebase ecosystem used for mobile app deployment
+SKILL_0117,firestore,Firestore,1,Firestore,CLUSTER_012,Mobile Development,Firestore is a NoSQL database used in mobile app development
+SKILL_0118,fiserv,Fiserv,1,Fiserv,CLUSTER_025,Enterprise Platforms,Fiserv is a financial services platform and is part of enterprise platforms
+SKILL_0119,fivetran,Fivetran,1,Fivetran,CLUSTER_015,Data Engineering Pipelines,Fivetran is an ETL tool used for data pipeline automation
+SKILL_0120,flask,Flask,1,Flask,CLUSTER_010,Web Development,Flask is a backend web framework and is part of web development
+SKILL_0121,gcp,GCP,19,Cloud platforms; GCP; cloud platforms,CLUSTER_018,Cloud Platforms,GCP is a major cloud provider and is part of cloud platforms
+SKILL_0122,gcp dataflow,GCP Dataflow,1,GCP Dataflow,CLUSTER_017,Big Data Processing,GCP Dataflow is a big data processing service on Google Cloud
+SKILL_0123,gcp vertex ai pipelines,GCP Vertex AI pipelines,1,GCP Vertex AI pipelines,CLUSTER_008,MLOps and Deployment,GCP Vertex AI pipelines are used for deploying and managing machine learning models
+SKILL_0124,gemini,Gemini,1,Gemini,CLUSTER_002,Generative AI,Gemini is a generative AI model developed by Google
+SKILL_0125,gen2 azure fabric,Gen2 Azure Fabric,1,Gen2 Azure Fabric,CLUSTER_018,Cloud Platforms,Gen2 Azure Fabric is part of Microsoft's cloud platform ecosystem
+SKILL_0126,generative ai,Generative AI,2,Generative AI,CLUSTER_002,Generative AI,Generative AI is a core category for LLMs and content generation
+SKILL_0127,generative ai genai,Generative AI (GenAI),1,Generative AI (GenAI),CLUSTER_002,Generative AI,Generative AI (GenAI) is a core category for LLMs and content generation
+SKILL_0128,generative ai model architecture design,Generative AI model architecture design,1,Generative AI model architecture design,CLUSTER_002,Generative AI,Designing generative AI model architectures is part of generative AI development
+SKILL_0129,git,Git,8,Git,CLUSTER_027,Software Engineering Tools,Git is a version control system and is part of software engineering tools
+SKILL_0130,github,GitHub,1,GitHub,CLUSTER_027,Software Engineering Tools,GitHub is a code hosting platform and is part of software engineering tools
+SKILL_0131,github actions,GitHub Actions,3,GitHub Actions,CLUSTER_020,DevOps and Cloud Infrastructure,GitHub Actions is used for CI/CD and is part of DevOps practices
+SKILL_0132,github workflows,GitHub workflows,1,GitHub workflows,CLUSTER_020,DevOps and Cloud Infrastructure,GitHub workflows are part of CI/CD and DevOps practices
+SKILL_0133,gitops principles,GitOps Principles,1,GitOps Principles,CLUSTER_020,DevOps and Cloud Infrastructure,GitOps is a DevOps practice for infrastructure as code and deployment
+SKILL_0134,glue,Glue,1,Glue,CLUSTER_017,Big Data Processing,Glue is a data processing service on AWS and is part of big data technologies
+SKILL_0135,go,Go,1,Go,CLUSTER_009,Programming Languages,Go is a general-purpose programming language and is part of programming languages
+SKILL_0136,google analytics,Google Analytics,1,Google Analytics,CLUSTER_021,BI and Visualization,Google Analytics is used for business intelligence and data visualization
+SKILL_0137,google cloud,Google Cloud,1,Google Cloud,CLUSTER_018,Cloud Platforms,Google Cloud is a major cloud provider and is part of cloud platforms
+SKILL_0138,google cloud platform gcp,Google Cloud Platform (GCP),1,Google Cloud Platform (GCP),CLUSTER_018,Cloud Platforms,Google Cloud Platform (GCP) is a major cloud provider and is part of cloud platforms
+SKILL_0139,google sheets,Google Sheets,2,Google Sheets,CLUSTER_021,BI and Visualization,Google Sheets is used for data analysis and is relevant to BI and visualization
+SKILL_0140,hadoop,Hadoop,1,Big Data technologies,CLUSTER_017,Big Data Processing,Hadoop is a big data processing framework and is part of big data technologies
+SKILL_0141,kafka,Kafka,2,Kafka,CLUSTER_017,Big Data Processing,Kafka is a distributed streaming platform and is part of big data technologies
+SKILL_0142,kubernetes,Kubernetes,7,Kubernetes,CLUSTER_020,DevOps and Cloud Infrastructure,Kubernetes is a container orchestration tool used in DevOps and cloud infrastructure
+SKILL_0143,lgbm,LGBM,1,LGBM,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0144,llm,LLM,4,LLM,CLUSTER_002,Generative AI,Deterministic fallback: missing Pass 3 assignment
+SKILL_0145,llm api integration,LLM API integration,2,LLM API integration,CLUSTER_002,Generative AI,Deterministic fallback: missing Pass 3 assignment
+SKILL_0146,llm apis,LLM APIs,2,LLM APIs,CLUSTER_002,Generative AI,Deterministic fallback: missing Pass 3 assignment
+SKILL_0147,llm-based workflows,LLM-based workflows,1,LLM-based workflows,CLUSTER_002,Generative AI,Deterministic fallback: missing Pass 3 assignment
+SKILL_0148,llms,LLMs,3,LLMs,CLUSTER_002,Generative AI,Deterministic fallback: missing Pass 3 assignment
+SKILL_0149,lambda,Lambda,1,Lambda,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0150,langchain,LangChain,4,LangChain,CLUSTER_001,Agentic AI,Deterministic fallback: missing Pass 3 assignment
+SKILL_0151,langsmith,LangSmith,1,LangSmith,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0152,large language models llms,Large Language Models (LLMs),1,Large Language Models (LLMs),CLUSTER_002,Generative AI,Deterministic fallback: missing Pass 3 assignment
+SKILL_0153,linux,Linux,4,Linux,CLUSTER_029,Operating Systems and Scripting,Deterministic fallback: missing Pass 3 assignment
+SKILL_0154,linux administration,Linux administration,1,Linux administration,CLUSTER_029,Operating Systems and Scripting,Deterministic fallback: missing Pass 3 assignment
+SKILL_0155,llamaindex,LlamaIndex,1,LlamaIndex,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0156,logging,Logging,1,Logging,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0157,lookml,LookML,1,LookML,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0158,looker studio,Looker Studio,1,Looker Studio,CLUSTER_021,BI and Visualization,Deterministic fallback: missing Pass 3 assignment
+SKILL_0159,mcp integrations,MCP integrations,1,MCP integrations,CLUSTER_011,API Development,Deterministic fallback: missing Pass 3 assignment
+SKILL_0160,mfa,MFA,1,MFA,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0161,ml platforms,ML platforms,1,ML platforms,CLUSTER_008,MLOps and Deployment,ML platforms are related to the deployment and management of machine learning models
+SKILL_0162,mlops,MLOps,4,MLOps,CLUSTER_008,MLOps and Deployment,"MLOps directly relates to the deployment, monitoring, and management of machine learning models"
+SKILL_0163,mlops/llmops,MLOps/LLMOps,1,MLOps/LLMOps,CLUSTER_008,MLOps and Deployment,"MLOps/LLMOps is a specialized area of MLOps focused on large language models, which falls under the MLOps and Deployment cluster"
+SKILL_0164,mlflow,MLflow,2,MLflow,CLUSTER_008,MLOps and Deployment,"MLflow is a tool used for managing the machine learning lifecycle, which is part of MLOps and Deployment"
+SKILL_0165,mmdetection,MMDetection,1,MMDetection,CLUSTER_005,Computer Vision,"MMDetection is a framework for object detection, which is a core part of computer vision"
+SKILL_0166,ms excel,MS Excel,3,MS Excel,CLUSTER_030,Other Technical Skills,MS Excel is a spreadsheet tool and does not fit into any of the more specific technical clusters
+SKILL_0167,ms office applications,MS Office applications,1,MS Office applications,CLUSTER_030,Other Technical Skills,MS Office applications are general productivity tools and do not fit into any of the more specific technical clusters
+SKILL_0168,ms sql,MS SQL,1,MS SQL,CLUSTER_013,Databases and Querying,MS SQL is a relational database system and fits into the Databases and Querying cluster
+SKILL_0169,machine learning algorithms,Machine Learning Algorithms,4,Machine Learning Algorithms,CLUSTER_006,Machine Learning,Machine Learning Algorithms are core to the field of machine learning and fit into the Machine Learning cluster
+SKILL_0170,machine learning,Machine learning,6,Machine Learning; Machine learning,CLUSTER_006,Machine Learning,Machine learning is a core field and fits into the Machine Learning cluster
+SKILL_0171,machine learning infrastructure,Machine learning infrastructure,1,Machine learning infrastructure,CLUSTER_008,MLOps and Deployment,"Machine learning infrastructure is related to deploying and managing machine learning models, which falls under MLOps and Deployment"
+SKILL_0172,microservice-based architecture,Microservice-based architecture,1,Microservice-based architecture,CLUSTER_027,Software Engineering Tools,Microservice-based architecture is a software design pattern and fits into the Software Engineering Tools cluster
+SKILL_0173,microsoft power bi,Microsoft Power BI,1,"Data visualization experience using any BI tool: Microsoft Power BI, Tableau, Qlik",CLUSTER_021,BI and Visualization,Microsoft Power BI is a business intelligence and visualization tool and fits into the BI and Visualization cluster
+SKILL_0174,mysql,MySQL,1,MySQL,CLUSTER_013,Databases and Querying,MySQL is a relational database system and fits into the Databases and Querying cluster
+SKILL_0175,net,NET,1,NET,CLUSTER_030,Other Technical Skills,NET is a general-purpose programming framework and does not fit into any of the more specific technical clusters
+SKILL_0176,nlp,NLP,1,NLP,CLUSTER_004,NLP and Text Analytics,NLP is a core field of natural language processing and fits into the NLP and Text Analytics cluster
+SKILL_0177,nltk,NLTK,1,NLTK,CLUSTER_004,NLP and Text Analytics,NLTK is a library used for natural language processing and fits into the NLP and Text Analytics cluster
+SKILL_0178,nunit,NUnit,1,NUnit,CLUSTER_027,Software Engineering Tools,NUnit is a unit testing framework and fits into the Software Engineering Tools cluster
+SKILL_0179,nestjs,NestJS,1,NestJS,CLUSTER_010,Web Development,NestJS is a web framework and fits into the Web Development cluster
+SKILL_0180,netlify,Netlify,1,Netlify,CLUSTER_020,DevOps and Cloud Infrastructure,Netlify is a cloud platform for deploying web applications and fits into the DevOps and Cloud Infrastructure cluster
+SKILL_0181,network security,Network Security,1,network security,CLUSTER_023,Cybersecurity,Network Security is a core area of cybersecurity and fits into the Cybersecurity cluster
+SKILL_0182,networking,Networking,1,Networking,CLUSTER_030,Other Technical Skills,Networking is a general term and does not fit into any of the more specific technical clusters
+SKILL_0183,next.js,Next.js,3,Next.js; TypeScript / Next.js / React,CLUSTER_010,Web Development,Next.js is a web framework and fits into the Web Development cluster
+SKILL_0184,nifi,NiFi,1,NiFi,CLUSTER_015,Data Engineering Pipelines,NiFi is a data integration and workflow automation tool and fits into the Data Engineering Pipelines cluster
+SKILL_0185,node.js,Node.js,5,Node.js,CLUSTER_010,Web Development,Node.js is a web development framework and fits into the Web Development cluster
+SKILL_0186,numpy,NumPy,1,NumPy,CLUSTER_009,Programming Languages,NumPy is a Python library and fits into the Programming Languages cluster
+SKILL_0187,observability,Observability,2,Observability,CLUSTER_020,DevOps and Cloud Infrastructure,Observability is related to monitoring and managing cloud infrastructure and fits into the DevOps and Cloud Infrastructure cluster
+SKILL_0188,observability tools,Observability tools,1,Observability tools,CLUSTER_020,DevOps and Cloud Infrastructure,Observability tools are used for monitoring and managing cloud infrastructure and fit into the DevOps and Cloud Infrastructure cluster
+SKILL_0189,openai,OpenAI,1,OpenAI,CLUSTER_002,Generative AI,OpenAI is a provider of generative AI models and fits into the Generative AI cluster
+SKILL_0190,openai api,OpenAI API,2,OpenAI API,CLUSTER_002,Generative AI,The OpenAI API is used for generative AI tasks and fits into the Generative AI cluster
+SKILL_0191,opencv,OpenCV,1,OpenCV,CLUSTER_005,Computer Vision,OpenCV is a library used for image processing and computer vision and fits into the Computer Vision cluster
+SKILL_0192,oracle rdbms,Oracle RDBMS,1,Oracle RDBMS,CLUSTER_013,Databases and Querying,Oracle RDBMS is a relational database system and fits into the Databases and Querying cluster
+SKILL_0193,orchestration,Orchestration,1,Orchestration,CLUSTER_016,Workflow Orchestration,Orchestration is related to workflow management and fits into the Workflow Orchestration cluster
+SKILL_0194,pam,PAM,1,PAM,CLUSTER_030,Other Technical Skills,PAM is a general term and does not fit into any of the more specific technical clusters
+SKILL_0195,php,PHP,1,PHP,CLUSTER_009,Programming Languages,PHP is a general-purpose programming language and fits into the Programming Languages cluster
+SKILL_0196,pandas,Pandas,1,Pandas,CLUSTER_009,Programming Languages,Pandas is a Python library and fits into the Programming Languages cluster
+SKILL_0197,performance monitoring,Performance monitoring,1,Performance monitoring,CLUSTER_020,DevOps and Cloud Infrastructure,Performance monitoring is related to cloud infrastructure and fits into the DevOps and Cloud Infrastructure cluster
+SKILL_0198,persistent state tracking,Persistent State Tracking,1,Persistent State Tracking,CLUSTER_030,Other Technical Skills,Persistent State Tracking is a general term and does not fit into any of the more specific technical clusters
+SKILL_0199,pinecone,Pinecone,1,Pinecone,CLUSTER_003,RAG and Vector Search,Pinecone is a vector database and fits into the RAG and Vector Search cluster
+SKILL_0200,policy enforcement,Policy enforcement,1,Policy enforcement,CLUSTER_023,Cybersecurity,Policy enforcement is a core area of cybersecurity and fits into the Cybersecurity cluster
+SKILL_0201,postgresql,PostgreSQL,2,PostgreSQL,CLUSTER_013,Databases and Querying,PostgreSQL is a relational database system and fits into the Databases and Querying cluster
+SKILL_0202,power automate,Power Automate,2,Power Automate,CLUSTER_026,Automation and Productivity,Power Automate is an automation tool and fits into the Automation and Productivity cluster
+SKILL_0203,power bi,Power BI,17,Power BI,CLUSTER_021,BI and Visualization,Power BI is a business intelligence and visualization tool and fits into the BI and Visualization cluster
+SKILL_0204,power platform,Power Platform,1,Power Platform,CLUSTER_030,Other Technical Skills,Power Platform is a general term and does not fit into any of the more specific technical clusters
+SKILL_0205,power platform extensibility,Power Platform extensibility,1,Power Platform extensibility,CLUSTER_030,Other Technical Skills,Power Platform extensibility is a general term and does not fit into any of the more specific technical clusters
+SKILL_0206,power query,Power Query,1,Power Query,CLUSTER_013,Databases and Querying,Power Query is a data transformation tool and fits into the Databases and Querying cluster
+SKILL_0207,predictive modeling,Predictive Modeling,1,Predictive Modeling,CLUSTER_006,Machine Learning,Predictive Modeling is a core area of machine learning and fits into the Machine Learning cluster
+SKILL_0208,prometheus,Prometheus,1,Prometheus,CLUSTER_020,DevOps and Cloud Infrastructure,Prometheus is a monitoring tool and fits into the DevOps and Cloud Infrastructure cluster
+SKILL_0209,prompt flow,Prompt Flow,1,Prompt Flow,CLUSTER_002,Generative AI,Prompt Flow is related to generative AI and fits into the Generative AI cluster
+SKILL_0210,prompt engineering,Prompt engineering,7,Prompt engineering,CLUSTER_002,Generative AI,Prompt engineering is a core area of generative AI and fits into the Generative AI cluster
+SKILL_0211,qlik,Qlik,1,"Data visualization experience using any BI tool: Microsoft Power BI, Tableau, Qlik",CLUSTER_021,BI and Visualization,Qlik is a business intelligence and visualization tool and fits into the BI and Visualization cluster
+SKILL_0212,r,R,10,R,CLUSTER_009,Programming Languages,R is a general-purpose programming language and fits into the Programming Languages cluster
+SKILL_0213,rag,RAG,7,RAG; Vector databases and RAG,CLUSTER_003,RAG and Vector Search,RAG is a core area of retrieval-augmented generation and fits into the RAG and Vector Search cluster
+SKILL_0214,rag architecture,RAG architecture,1,RAG architecture,CLUSTER_003,RAG and Vector Search,RAG architecture is related to retrieval-augmented generation and fits into the RAG and Vector Search cluster
+SKILL_0215,rag architectures,RAG architectures,1,RAG architectures,CLUSTER_003,RAG and Vector Search,RAG architectures are related to retrieval-augmented generation and fit into the RAG and Vector Search cluster
+SKILL_0216,rag implementation,RAG implementation,1,RAG implementation,CLUSTER_003,RAG and Vector Search,RAG implementation is related to retrieval-augmented generation and fits into the RAG and Vector Search cluster
+SKILL_0217,rag pipeline,RAG pipeline,1,RAG pipeline,CLUSTER_003,RAG and Vector Search,RAG pipeline is related to retrieval-augmented generation and fits into the RAG and Vector Search cluster
+SKILL_0218,rag-based solutions,RAG-based solutions,1,RAG-based solutions,CLUSTER_003,RAG and Vector Search,Deterministic fallback: missing Pass 3 assignment
+SKILL_0219,ragas,RAGAS,1,RAGAS,CLUSTER_003,RAG and Vector Search,Deterministic fallback: missing Pass 3 assignment
+SKILL_0220,rbac,RBAC,1,RBAC,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0221,rds,RDS,1,RDS,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0222,rest api programming,REST API programming,1,REST API programming,CLUSTER_011,API Development,Deterministic fallback: missing Pass 3 assignment
+SKILL_0223,rest/json api development,REST/JSON API development,1,REST / JSON API development,CLUSTER_011,API Development,Deterministic fallback: missing Pass 3 assignment
+SKILL_0224,rest/json apis,REST/JSON APIs,1,REST/JSON APIs,CLUSTER_011,API Development,Deterministic fallback: missing Pass 3 assignment
+SKILL_0225,restful apis,RESTful APIs,1,RESTful APIs,CLUSTER_011,API Development,Deterministic fallback: missing Pass 3 assignment
+SKILL_0226,ralph loop,Ralph loop,1,Ralph loop,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0227,random forests,Random Forests,1,Random Forests,CLUSTER_006,Machine Learning,Deterministic fallback: missing Pass 3 assignment
+SKILL_0228,rasa,Rasa,1,Rasa,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0229,react,React,5,React; TypeScript / Next.js / React,CLUSTER_010,Web Development,Deterministic fallback: missing Pass 3 assignment
+SKILL_0230,reactts,ReactTS,1,ReactTS,CLUSTER_010,Web Development,Deterministic fallback: missing Pass 3 assignment
+SKILL_0231,real-time communication protocols,Real-time Communication Protocols,1,Real-time Communication Protocols,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0232,redshift,Redshift,4,Redshift,CLUSTER_014,Data Warehousing,Deterministic fallback: missing Pass 3 assignment
+SKILL_0233,rekognition,Rekognition,1,Rekognition,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0234,resilient job queues,Resilient job queues,1,resilient job queues,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0235,retrieval strategies,Retrieval strategies,1,Retrieval strategies,CLUSTER_003,RAG and Vector Search,Deterministic fallback: missing Pass 3 assignment
+SKILL_0236,retrieval-augmented generation rag,Retrieval-Augmented Generation (RAG),2,Retrieval-Augmented Generation (RAG),CLUSTER_003,RAG and Vector Search,Deterministic fallback: missing Pass 3 assignment
+SKILL_0237,s3,S3,2,S3,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0238,sas,SAS,1,SAS,CLUSTER_030,Other Technical Skills,Deterministic fallback: missing Pass 3 assignment
+SKILL_0239,sql,SQL,44,SQL,CLUSTER_013,Databases and Querying,Deterministic fallback: missing Pass 3 assignment
+SKILL_0240,sql dml,SQL DML,1,SQL DML,CLUSTER_013,Databases and Querying,Deterministic fallback: missing Pass 3 assignment
+SKILL_0241,sql server,SQL Server,1,SQL Server,CLUSTER_013,Databases and Querying,SQL Server is a relational database management system
+SKILL_0242,sql server integration services,SQL Server Integration Services,1,SQL Server Integration Services,CLUSTER_015,Data Engineering Pipelines,SQL Server Integration Services is used for data integration and workflow automation
+SKILL_0243,scripting and automation,Scripting and automation,1,scripting and automation,CLUSTER_026,Automation and Productivity,Scripting and automation refers to tools and practices for automating workflows
+SKILL_0244,security controls implementation,Security controls implementation,1,security controls implementation,CLUSTER_023,Cybersecurity,Security controls implementation involves setting up and managing security measures
+SKILL_0245,snowflake,Snowflake,4,Snowflake,CLUSTER_014,Data Warehousing,Snowflake is a cloud-based data warehousing platform
+SKILL_0246,sonarcloud,SonarCloud,1,SonarCloud,CLUSTER_027,Software Engineering Tools,SonarCloud is a code quality and security analysis tool
+SKILL_0247,spark,Spark,6,Spark,CLUSTER_017,Big Data Processing,Spark is a distributed data processing framework used for big data
+SKILL_0248,speech-to-text,Speech-to-Text,1,Speech-to-Text,CLUSTER_004,NLP and Text Analytics,"Speech-to-Text involves converting spoken language into text, which is a part of NLP"
+SKILL_0249,speech-to-text integration,Speech-to-text integration,1,Speech-to-text integration,CLUSTER_011,API Development,Speech-to-text integration involves building and using APIs for speech recognition
+SKILL_0250,splunk,Splunk,1,Splunk,CLUSTER_017,Big Data Processing,"Splunk is used for data analysis and processing, particularly in log data"
+SKILL_0251,statistical modeling,Statistical modeling,2,Statistical Modeling; Statistical modeling,CLUSTER_022,Statistics and Experimentation,Statistical modeling involves creating models to analyze and interpret data
+SKILL_0252,streaming analytics,Streaming analytics,1,Streaming analytics,CLUSTER_017,Big Data Processing,Streaming analytics involves processing and analyzing data in real-time
+SKILL_0253,streamlit,Streamlit,1,Streamlit,CLUSTER_010,Web Development,Streamlit is a framework for building web applications for data science
+SKILL_0254,supabase,Supabase,1,Supabase,CLUSTER_018,Cloud Platforms,Supabase is a backend service for building web and mobile apps
+SKILL_0255,supervised ml techniques,Supervised ML techniques,1,Supervised ML techniques,CLUSTER_006,Machine Learning,Supervised ML techniques involve training models with labeled data
+SKILL_0256,svelte,Svelte,1,Svelte,CLUSTER_010,Web Development,Svelte is a frontend JavaScript framework for building web applications
+SKILL_0257,system vulnerabilities,System Vulnerabilities,1,System Vulnerabilities,CLUSTER_023,Cybersecurity,System vulnerabilities involve identifying and mitigating weaknesses in systems
+SKILL_0258,t-sql,T-SQL,1,T-SQL,CLUSTER_013,Databases and Querying,T-SQL is a dialect of SQL used for querying and managing SQL Server databases
+SKILL_0259,tcp/ip,TCP/IP,1,TCP/IP,CLUSTER_030,Other Technical Skills,TCP/IP is a protocol suite used for internet communication
+SKILL_0260,tcs,TCS,1,TCS,CLUSTER_030,Other Technical Skills,TCS is not clearly defined and does not fit into any specific cluster
+SKILL_0261,tableau,Tableau,7,"Data visualization experience using any BI tool: Microsoft Power BI, Tableau, Qlik; Tableau",CLUSTER_021,BI and Visualization,Tableau is a business intelligence and data visualization tool
+SKILL_0262,tensorflow,TensorFlow,3,TensorFlow,CLUSTER_007,Deep Learning,TensorFlow is a deep learning framework used for building neural networks
+SKILL_0263,tensorrt,TensorRT,1,TensorRT,CLUSTER_007,Deep Learning,TensorRT is used for optimizing and deploying deep learning models
+SKILL_0264,terraform,Terraform,3,Terraform,CLUSTER_020,DevOps and Cloud Infrastructure,Terraform is an infrastructure-as-code tool for provisioning and managing cloud resources
+SKILL_0265,test automation frameworks,Test automation frameworks,1,Test automation frameworks,CLUSTER_027,Software Engineering Tools,Test automation frameworks are used for automating software testing processes
+SKILL_0266,text-to-speech,Text-to-Speech,1,Text-to-Speech,CLUSTER_004,NLP and Text Analytics,"Text-to-Speech involves converting text into spoken language, which is a part of NLP"
+SKILL_0267,third-party api integration,Third-party API integration,1,third-party API integration,CLUSTER_011,API Development,Third-party API integration involves connecting and using external APIs
+SKILL_0268,typescript,TypeScript,8,TypeScript; TypeScript / Next.js / React; Typescript,CLUSTER_009,Programming Languages,TypeScript is a statically typed superset of JavaScript
+SKILL_0269,unit testing,Unit testing,1,Unit testing,CLUSTER_027,Software Engineering Tools,Unit testing involves testing individual components of software
+SKILL_0270,vector dbs,Vector DBs,1,Vector DBs,CLUSTER_003,RAG and Vector Search,"Vector DBs are used for storing and searching vector embeddings, which are relevant to RAG"
+SKILL_0271,vector databases,Vector databases,6,Vector Databases; Vector databases; Vector databases and RAG,CLUSTER_003,RAG and Vector Search,"Vector databases are used for storing and searching vector embeddings, which are relevant to RAG"
+SKILL_0272,vector embeddings,Vector embeddings,1,Vector embeddings,CLUSTER_003,RAG and Vector Search,Vector embeddings are used in retrieval-augmented generation and semantic search
+SKILL_0273,vector search,Vector search,1,Vector search,CLUSTER_003,RAG and Vector Search,Vector search is a key component of retrieval-augmented generation and semantic search
+SKILL_0274,yolo,YOLO,1,YOLO,CLUSTER_005,Computer Vision,YOLO is a popular framework for object detection in computer vision
+SKILL_0275,dbt,dbt,4,DBT; dbt,CLUSTER_015,Data Engineering Pipelines,dbt is a tool for transforming data in data warehouses
+SKILL_0276,ecommerce systems,eCommerce systems,1,eCommerce systems,CLUSTER_024,Information Systems,eCommerce systems are part of business information systems
+SKILL_0277,multi-agent systems,multi-agent systems,1,Multi-agent systems,CLUSTER_001,Agentic AI,Multi-agent systems are a part of agentic AI frameworks
+SKILL_0278,spacy,spaCy,1,spaCy,CLUSTER_004,NLP and Text Analytics,spaCy is a library for natural language processing and text analytics
+SKILL_0279,sub-agents,sub-agents,1,sub-agents,CLUSTER_001,Agentic AI,"Sub-agents are components of multi-agent systems, which fall under agentic AI"
