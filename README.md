@@ -57,7 +57,7 @@ Compares competency and skill demand across the target role categories.
 
 ### Skill Tree / Learning Map
 
-![Skill Tree](assets/images/04_skill_tree.png)
+![Skill Tree](assets/images/04_skill_map.png)
 
 Displays one learning map per competency cluster. Skills are positioned based on learning level, difficulty, and demand priority.
 
