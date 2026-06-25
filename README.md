@@ -1,6 +1,9 @@
 # SeeSkill-PH
 
+## Formal Title
 **A Data-Driven Competency Mapping and Skill Prioritization Framework for Data and AI Roles in the Philippine Labor Market**
+
+## Overview
 
 SeeSkill-PH transforms job postings into a structured skill intelligence dashboard. The project uses a language model-assisted pipeline to extract hard technical skills from job descriptions, standardize overlapping skill terms, organize them into competency clusters, score their market relevance, and visualize the results in Power BI.
 
@@ -20,18 +23,12 @@ Examples of target skills include:
 Python
 SQL
 Power BI
-Tableau
 AWS
 Azure
 Snowflake
 Airflow
-Machine Learning
 RAG
-LangChain
 Computer Vision
-Cybersecurity
-React
-Node.js
 ```
 
 The final Power BI dashboard provides a market-level view of skill demand, role-skill alignment, competency clusters, and learning pathways.
@@ -42,31 +39,31 @@ The final Power BI dashboard provides a market-level view of skill demand, role-
 
 ### Market Overview
 
-[Market Overview](assets/images/01_market_overview.png)
+![Market Overview](assets/images/01_market_overview.png)
 
 Summarizes the job market snapshot by role, seniority, salary range, and top skills.
 
 ### Competency Clusters
 
-[Competency Clusters](assets/images/02_competency_clusters.png)
+![Competency Clusters](assets/images/02_competency_clusters.png)
 
 Shows high-level skill families, cluster demand, top skills per cluster, and cluster-level metrics.
 
 ### Role-Skill Matrix
 
-[Role-Skill Matrix](assets/images/03_role_skill_matrix.png)
+![Role-Skill Matrix](assets/images/03_role_skill_matrix.png)
 
 Compares competency and skill demand across the target role categories.
 
 ### Skill Tree / Learning Map
 
-[Skill Tree](assets/images/04_skill_tree.png)
+![Skill Tree](assets/images/04_skill_tree.png)
 
 Displays one learning map per competency cluster. Skills are positioned based on learning level, difficulty, and demand priority.
 
 ### Skill Explorer
 
-[Skill Explorer](assets/images/05_skill_explorer.png)
+![Skill Explorer](assets/images/05_skill_explorer.png)
 
 Provides a searchable table of final cleaned skills, clusters, categories, and scoring metrics.
 
